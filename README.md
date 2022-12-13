@@ -26,11 +26,10 @@ I Don't Know How To Check For MAC but for windows Press The Windows Key, Type "A
 
 Why I Didn't Just Say Press Windows Key And Search Python Is Because It Might Not Be In Quick Access Programs, So The **Apps & Features** Checks The Entire Computer For Programs And Lists Them And Vague Details On Them.
 
-# ChangeLog
--/+ Removed Addition Dot And Division Symbol And Replaced Multiplication With "*" And Division With "/" Because Python Didn't Recognize The Character.
-+ Added "To The Power Of/Exponents". This is for example, num1(10) ^ num2(6), So You Would In That Case, Multiply The Number Of Num1 And Multiply It As Much As The Number On Num2 Is.
-+ Added A Whole Lot More To The "README.MD"
-Note: ReadMe.txt Is Basically Useless.
+# ChangeLog (spc-0.4)
++Added A Bunch Of Circle Math Stuff
++Added Square Root
++/- Revamp (Better Text UI)
 
 # Questions That You Guys Never Asked Me.
 Q: What Do You Write Your Code In.
